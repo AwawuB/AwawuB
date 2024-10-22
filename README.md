@@ -5,9 +5,9 @@
 - 📫 How to reach me;
 - mail: olajumokebakare76@gmail.com
 - linkedin: https://www.linkedin.com/in/awawu-bakare-a44713239/
-- [x](#https://x.com/Awawu_B)
+- x: https://x.com/Awawu_B
 - 😄 Pronouns: Her/She
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm a dynamic beign with diverse skills
 
 <!---
 AwawuB/AwawuB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
